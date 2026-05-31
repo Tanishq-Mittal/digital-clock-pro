@@ -14,7 +14,7 @@ A Python-based productivity dashboard built from an improved Digital Clock proje
 - Tkinter
 
 ## Demo
-GitHub Repo: [Link]
+GitHub Repo: https://github.com/Tanishq-Mittal/digital-clock-pro
 
 ## Note
 This project was upgraded as part of the GitHub Finish-Up-A-Thon Challenge.
